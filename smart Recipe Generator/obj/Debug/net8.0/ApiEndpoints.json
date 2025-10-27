@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "smart_Recipe_Generator.Controllers.Recipe",
+    "Method": "GenerateRecipe",
+    "RelativePath": "api/Recipe/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "smart_Recipe_Generator.Services.RecipeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "smart_Recipe_Generator.Services.RecipeDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

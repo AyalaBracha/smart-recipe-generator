@@ -1,0 +1,36 @@
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.staticwebassets.endpoints.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.exe
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.deps.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.runtimeconfig.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\smart Recipe Generator.pdb
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.AssemblyInfo.cs
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.sourcelink.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\scopedcss\bundle\smart Recipe Generator.styles.css
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Re.6BFA4E6F.Up2Date
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\refint\smart Recipe Generator.dll
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.pdb
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\smart Recipe Generator.genruntimeconfig.cache
+C:\Users\USER\Desktop\smart Recipe Generator\smart Recipe Generator\obj\Debug\net8.0\ref\smart Recipe Generator.dll
