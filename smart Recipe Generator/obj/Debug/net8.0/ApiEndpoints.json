@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "smart_Recipe_Generator.Controllers.Recipe",
+    "ContainingType": "Recipe",
     "Method": "GenerateRecipe",
     "RelativePath": "api/Recipe/generate",
     "HttpMethod": "POST",
@@ -9,13 +9,13 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "smart_Recipe_Generator.Services.RecipeRequestDto",
+        "Type": "smart_Recipe_Generator.Models.RecipeRequestDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "smart_Recipe_Generator.Services.RecipeDto",
+        "Type": "smart_Recipe_Generator.Models.RecipeDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
